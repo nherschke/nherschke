@@ -4,6 +4,7 @@
 **nherschke/nherschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on a student project
 - 🌱 I’m currently learning Ionic
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
